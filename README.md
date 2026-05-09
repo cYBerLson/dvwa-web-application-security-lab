@@ -54,9 +54,8 @@ The goal of this lab was to:
 
 The network adapter for both virtual machines was configured to use Host-Only Adapter mode in VirtualBox. This ensured that the two systems could communicate directly.
 
-**Screenshot:**
 
-![Host-Only Network](screenshots/01-host-only-network.png)
+![Host-Only Network]
 
 ---
 
