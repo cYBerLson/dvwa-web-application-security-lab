@@ -66,4 +66,4 @@ The `ifconfig` command was used to confirm that both machines received IP addres
 #### Kali Linux
 
 ```bash
-ifconfig
+ifconfig 
